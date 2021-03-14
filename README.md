@@ -1,4 +1,4 @@
-# Demo how to use javafx-maven-plugin with SPI drivers such as JDBC drivers
+# Demo how to create JavaFX app with custom runtime image using SPI drivers such as JDBC drivers
 
 The only purpose of this project is to investigate, how to properly configure a JavaFX project
 using Maven and the JavaFX Maven plugin. The interesting point is, how to properly link JDBC
@@ -8,6 +8,8 @@ drivers in a customized runtime?
 
 * JavaFX 15
 * modular project, so all classes moved to module path
+* Maven as build tool
+* Javafx-maven-plugin
 * Uses some SPI modules from: Microsoft SqlServer JDBC driver, MariaDB JDBC driver and PostgreSQL JDBC driver
 
 ## Problem
