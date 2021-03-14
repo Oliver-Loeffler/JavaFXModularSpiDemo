@@ -4,6 +4,8 @@ The only purpose of this project is to investigate, how to properly configure a 
 using Maven and the JavaFX Maven plugin. The interesting point is, how to properly link JDBC
 drivers in a customized runtime?
 
+![DemoApp](DemoAppView2.png) 
+
 ## Boundary conditions
 
 * JavaFX 15
