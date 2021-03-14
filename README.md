@@ -142,5 +142,5 @@ The runtime image can be started then using:
 
 ```
 
-![How it loogs like](DemoAppView.png) 
+![How it loogs like](DemoAppView2.png) 
 
